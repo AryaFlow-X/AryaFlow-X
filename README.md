@@ -64,9 +64,6 @@
 
 ---
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AryaFlow-X&theme=dark)](https://git.io/streak-stats)
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaFlow-X&layout=compact&theme=dracula" />
